@@ -1,0 +1,4 @@
+Employee ID,Name,Position,Encrypted Salary,Status,Last Login,Risk
+E001,Ahmed,HR,gAAAAABo8mu0JxT8OlLO8Qa8hvCx_R2-29_oiII1Vegg1cXcvZcXIGMpRHLDeEuJxa5BwVf1l_Xt09EizE8zVXMtTsTHKKzT7A==,Terminated,2025-10-15,Critical
+E002,Sara,IT,gAAAAABo8mu0DyZCZOSq2Zeo7P8T9NOfSZskT3n7vB_KrRsbCB7Z9OVTO3iwopRvdD5YrVtPRrM2I2LcclUjCGkzeTYlwiI-5Q==,Terminated,2025-10-10,Critical
+E003,Omar,Finance,gAAAAABo8mu0rcQgUaRgUBJtRfHlcCucmhvrUctN1GqprheA9-LqsmHQXupQjgI1szJkO4KS6mRZarVU2uyzGKJevCfJEqnwMA==,Suspended,2025-09-30,High

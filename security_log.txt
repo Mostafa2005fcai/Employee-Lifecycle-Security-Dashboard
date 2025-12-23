@@ -1,0 +1,39 @@
+2025-10-17 19:15:21 - Generated new encryption key and saved to secret.key
+2025-10-17 19:15:22 - Created default admin password file (first-run).
+2025-10-17 19:15:48 - SUCCESS login by admin
+2025-10-17 19:15:48 - Created default employees.csv with encrypted salaries.
+2025-10-17 19:16:31 - SUCCESS login by admin
+2025-10-17 19:17:36 - Admin decrypted all salaries (user: admin)
+2025-10-17 19:17:40 - Admin decrypted all salaries (user: admin)
+2025-10-17 19:17:42 - Admin decrypted all salaries (user: admin)
+2025-10-17 19:17:45 - Admin decrypted all salaries (user: admin)
+2025-10-17 19:18:20 - Admin decrypted all salaries (user: admin)
+2025-10-17 19:21:00 - SUCCESS login by admin
+2025-10-17 19:24:55 - Admin decrypted all salaries (user: admin)
+2025-10-17 19:24:58 - Admin decrypted all salaries (user: admin)
+2025-10-17 20:53:39 - Admin decrypted all salaries (user: admin)
+2025-10-17 20:53:49 - Admin decrypted all salaries (user: admin)
+2025-10-17 21:35:15 - FAILED login attempt for username 'admin'
+2025-10-17 21:35:19 - SUCCESS login by admin
+2025-10-18 20:51:10 - SUCCESS login by admin
+2025-10-18 20:52:28 - Admin decrypted all salaries (user: admin)
+2025-10-20 19:15:03 - SUCCESS login by admin
+2025-10-21 13:37:46 - SUCCESS login by admin
+2025-10-22 12:33:37 - SUCCESS login by admin
+2025-10-22 12:33:48 - Admin decrypted all salaries (user: admin)
+2025-10-22 12:33:51 - Admin decrypted all salaries (user: admin)
+2025-10-22 12:33:52 - Admin decrypted all salaries (user: admin)
+2025-10-22 13:30:58 - SUCCESS login by admin
+2025-10-22 13:31:05 - Admin decrypted all salaries (user: admin)
+2025-10-22 14:48:34 - SUCCESS login by admin
+2025-10-22 15:07:50 - SUCCESS login by admin
+2025-10-22 15:08:06 - Admin decrypted all salaries (user: admin)
+2025-10-22 15:09:56 - SUCCESS login by admin
+2025-10-22 15:11:11 - SUCCESS login by admin
+2025-10-22 18:28:09 - SUCCESS login by admin
+2025-10-22 18:28:54 - Saved employees.csv (updated).
+2025-10-22 18:28:54 - Terminated employee E002 by admin
+2025-10-22 18:29:17 - Saved employees.csv (updated).
+2025-10-22 18:29:17 - Terminated employee E001 by admin
+2025-10-22 18:29:36 - Saved employees.csv (updated).
+2025-10-22 18:29:36 - Terminated employee E001 by admin
